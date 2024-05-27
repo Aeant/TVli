@@ -1,5 +1,5 @@
 source_file = "user_demo.txt"
-final_file = "user_result.txt"
+final_file = "ayu.txt"
 favorite_list = [
     "广东珠江",
     "CCTV-1",
