@@ -29,6 +29,8 @@ subscribe_urls = [
     "https://m3u.ibert.me/txt/fmml_dv6.txt",
     "https://m3u.ibert.me/txt/o_cn.txt",
     "https://m3u.ibert.me/txt/j_iptv.txt",
+    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+    "https://xhdwc.tk/tvlive.txt",
 ]
 open_multicast = True
 region_list = ["all"]
