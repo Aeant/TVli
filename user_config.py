@@ -31,6 +31,12 @@ subscribe_urls = [
     "https://m3u.ibert.me/txt/j_iptv.txt",
     "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
     "https://xhdwc.tk/tvlive.txt",
+    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/iptv/hd-live-all.txt",
+    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+    "https://m3u.ibert.me/txt/ycl_iptv.txt",
+    "https://m3u.ibert.me/txt/y_g.txt",
+    "https://wzsvip.github.io/ipv4.txt",
+    "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/iptv/color4-av-time.txt",
 ]
 open_multicast = True
 region_list = ["all"]
