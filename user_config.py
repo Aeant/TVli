@@ -36,6 +36,7 @@ subscribe_urls = [
     "https://m3u.ibert.me/txt/ycl_iptv.txt",
     "https://m3u.ibert.me/txt/y_g.txt",
     "https://wzsvip.github.io/ipv4.txt",
+    "https://tv.ayu0.cn/DivTV.txt",
 ]
 open_multicast = True
 region_list = ["all"]
